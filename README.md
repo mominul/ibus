@@ -1,2 +1,2 @@
 # ibus
-libibus implementation in Rust
+`libibus` implementation in Rust.
